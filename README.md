@@ -101,7 +101,7 @@ python main.py --command read
 - **filter**: Отфильтровать заметки по конкретной дате (в формате ГГГГ-ММ-ДД).
 ```commandline
 python main.py --command filter
-Enter date to filter notes (YYYY-MM-DD):2024-03-27 
+Enter date to filter notes (YYYY-MM-DD):2024-08-27 
 ```
 - **exit** или quit: Выйти из программы.
 ```commandline
