@@ -1,6 +1,6 @@
-### Note Taking Program for GEEKBRAINS
+### Note Taking Program
 
-This is a simple note-taking program developed by Artem Filosof for GEEKBRAINS. The program allows users to add, edit, delete, read, filter, and exit notes easily through the command line interface.
+This is a simple note-taking program. The program allows users to add, edit, delete, read, filter, and exit notes easily through the command line interface.
 
 ### Usage
 
@@ -19,4 +19,3 @@ To run the program, execute the `main()` function. The program accepts the follo
 - `read`: Display all notes.
 - `filter`: Filter notes by a specific date (in the format `YYYY-MM-DD`).
 - `exit` or `quit`: Exit the program.
-
