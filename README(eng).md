@@ -1,3 +1,4 @@
+
 ### Note Taking Program
 
 This is a simple note-taking program. The program allows users to add, edit, delete, read, filter, and exit notes easily through the command line interface.
