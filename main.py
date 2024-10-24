@@ -18,7 +18,7 @@ import argparse
 
 def main():
     load_notes()
-    parser = argparse.ArgumentParser(description='Note Taking Program for GEEKBRAINS by Artem Filosof')
+    parser = argparse.ArgumentParser(description='Note Taking Program ')
     parser.add_argument('--command', choices=['add', 'edit', 'delete', 'read', 'filter', 'exit'],
                         help='Enter command (add, edit, delete, read, filter, exit)')
     parser.add_argument('--title', type=str, help='Note title (Text)')
